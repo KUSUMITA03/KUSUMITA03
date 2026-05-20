@@ -91,9 +91,8 @@ For developing *V-RIP*, an AI-driven freshness monitoring solution for farmers a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUSUMITA03&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSUMITA03&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amannmishraa&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amannmishraa&theme=github_dark" />
 </p>
 
 ---
